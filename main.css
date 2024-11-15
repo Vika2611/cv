@@ -1,0 +1,69 @@
+html {
+
+  background-image: url(фон2.jpg);
+  
+  background-repeat: no-repeat;
+  
+  background-position: center center;
+  
+  background-attachment: fixed;
+  
+  -webkit-background-size: cover;
+  
+  -moz-background-size: cover;
+  
+  -o-background-size: cover;
+  
+  background-size: cover;
+  
+  }
+
+body {
+  font-family: Roboto, sans-serif;
+  padding: 100px;
+  padding-top: 180px;
+}
+
+.container{
+
+  padding: 20px;
+}
+
+
+a {
+  text-decoration: none; /* Убираем подчёркивание */
+  color: #10e2d8;
+  position: relative;
+  padding: 10px;
+ }
+
+ a:hover {
+  color:#ffffff;
+ }
+
+
+
+h1 {
+  font-size: 3em;
+  font-family: Georgia;
+  font-style: oblique;
+  color:#ffffff;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 1.25em 0;
+  color:#ffffff;
+}
+
+p{
+  font-size: 1.5em;
+  color:#ffffff;
+}
+
+h5{
+  color:#ffffff;
+  padding-left: 60px;
+  padding-right: 100 px;
+}
